@@ -1,0 +1,5 @@
+<?php
+
+return [
+    'settings saved' => 'Thi?t l?p ?ã ???c l?u!',
+];
